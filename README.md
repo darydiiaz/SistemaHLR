@@ -2,6 +2,7 @@
  
 Sistema de Control de Acceso y Estatus diseñado para instituciones educativas. 
 Permite generar credenciales digitales únicas mediante códigos QR, optimizando el registro de asistencia y la gestión de datos de los estudiantes en tiempo real.
+
 "Desarrollado con php,css,js,bootstrap y MySQL."
 
 Funcionalidades Destacadas: 
